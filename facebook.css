@@ -13,7 +13,7 @@ body {
     background-color: rgb(222, 220, 224); /* Light grayish background */
 }
 .container{
-    border: double blue 7px;
+
     display: flex;
     align-items: center;
     justify-content: center;
@@ -21,7 +21,6 @@ body {
   
 }
 .left_part{
-    border: solid;
     width: 40%;
     margin-bottom: 27px;
     
@@ -38,7 +37,6 @@ h3{
 }
 
 .right_part_container{
-    border: solid green;
     text-align: center;
     width: 50%;
     display: flex;
